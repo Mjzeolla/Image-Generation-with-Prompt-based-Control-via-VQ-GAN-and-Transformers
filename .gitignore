@@ -1,0 +1,8 @@
+ __pycache__/
+ *.pyc
+work/*
+*.pyc
+data
+.ipynb_checkpoints
+runs/
+*.txt
