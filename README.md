@@ -2,7 +2,7 @@ Research Paper: [Image-Generation-with-Prompt-based-Control-via-VQ-GAN-and-Trans
 
 Image generation is a novel concept in the areas of Deep Learning, which has resulted in many different unique model architectures with the
 goal of a simple and advanced generation. However, many such models suffer as the dimensions of the image, and space expand due to the increased computation costs, and conditional image generation boasts an entirely new set of problems.
-This project builds upon the established VQGAN and Transformers architectures to handle advanced Conditional Image Generation where prompt-based directions can control the output. This is accomplished via an LSTM + Transformer combination, along with a VQ-GAN.
+This project builds upon the established VQGAN and Transformers architectures to handle advanced Conditional Image Generation where prompt-based directions can control the output. This is accomplished via an LSTM + Transformer combination, along with a VQ-GAN.
 
 To run conditional image generation, you need:
 1. Download the text-image pair from the `https://drive.google.com/file/d/0B0ywwgffWnLLcms2WWJQRFNSWXM/view`
