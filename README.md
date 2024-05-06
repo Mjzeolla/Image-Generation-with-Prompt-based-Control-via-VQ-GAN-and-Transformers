@@ -1,3 +1,5 @@
+[embed][Image-Generation-with-Prompt-based-Control-via-VQ-GAN-and-Transformers](https://github.com/Mjzeolla/Image-Generation-with-Prompt-based-Control-via-VQ-GAN-and-Transformers/blob/main/Image-Generation-with-Prompt-based-Control-via-VQ-GAN-and-Transformers.pdf)[/embed]
+
 To run conditional image generation, you need:
 1. Download the text-image pair from the `https://drive.google.com/file/d/0B0ywwgffWnLLcms2WWJQRFNSWXM/view`
 2. Unzip the file into `data/` and rename that directory to be `flower`. You should get a `data/flower/text_c10` folder.
